@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Rishi Sharma</h1>
 
 <p align="center">
-  <b>Full Stack Developer • DSA Enthusiast • IoT & Cyber Security Student</b>
+  <b>Full Stack Web & App Developer • DSA Enthusiast • IoT & Cyber Security Student</b>
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@
   <br />
   🤝 <b>RakshaNow</b> — Collaborative Real-World Project
   <br />
-  🌱 Learning <b>Next.js • TypeScript • Blockchain</b>
+  🌱 Learning <b>Next.js • Blockchain</b>
   <br />
   🧠 Practicing <b>DSA • C++ • Problem Solving</b>
 </p>
@@ -80,8 +80,15 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vercel&perline=12"
+    src="https://skillicons.dev/icons?i=git,github,postman,vercel&perline=12"
     alt="Tools and Platforms"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=arduino&perline=12"
+    alt="Arduino"
   />
 </p>
 
@@ -248,6 +255,16 @@ to solve real-world problems.
 </p>
 
 ---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Rishisharmacoder/Rishisharmacoder/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="95%"
+  />
+</p>
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
