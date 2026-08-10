@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Rishi Sharma</h1>
 
 <p align="center">
-  <b>Full Stack Developer | DSA Enthusiast | IoT & Cyber Security Student</b>
+  <b>Full Stack Web & App Developer | DSA Enthusiast | IoT & Cyber Security Student</b>
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@
 <p align="center">
   🔭 Building <b><a href="https://github.com/Rishisharmacoder/DSA-CAREER-AI">DSA Career AI</a></b>
   <br />
-  🌱 Learning <b>Next.js, TypeScript & Blockchain</b>
+  🌱 Learning <b>Next.js & Blockchain</b>
   <br />
   👯 Collaborating on <b><a href="https://github.com/c0derArmy/RakshaNow">RakshaNow</a></b>
   <br />
@@ -80,7 +80,7 @@
 <h3 align="center">☁️ Tools & Platforms</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vercel&perline=12" alt="Tools and Platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel&perline=12" alt="Tools and Platforms" />
 </p>
 
 <h3 align="center">🔌 IoT</h3>
