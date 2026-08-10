@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Rishi Sharma</h1>
 
 <p align="center">
-  <b>Full Stack Developer | DSA Enthusiast </b>
+  <b>Full Stack Developer | DSA Enthusiast | IoT & Cyber Security Student</b>
 </p>
 
 <p align="center">
@@ -12,10 +12,10 @@
 
 <p align="center">
   <a href="mailto:rishisharmadbg1192005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Rishisharmacoder">
-    <img src="https://img.shields.io/badge/GitHub-Rishisharmacoder-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Rishisharmacoder-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -26,8 +26,8 @@
 <p align="center">
   I'm <b>Rishi Sharma</b>, a B.Tech CSE student specializing in
   <b>IoT & Cyber Security Including Blockchain Technology</b>.
-  <br/>
-  I enjoy building real-world software, solving DSA problems,
+  <br />
+  I'm passionate about building real-world software, solving DSA problems,
   and exploring modern technologies.
 </p>
 
@@ -44,49 +44,53 @@
 <h2 align="center">🚀 What I'm Currently Doing</h2>
 
 <p align="center">
-
-🔭 Building <b><a href="https://github.com/Rishisharmacoder/DSA-CAREER-AI">DSA Career AI</a></b> <br/>
-🌱 Learning <b>Next.js, TypeScript & Blockchain</b> <br/>
-👯 Collaborating on <b><a href="https://github.com/c0derArmy/RakshaNow">RakshaNow</a></b> <br/>
-🧠 Practicing <b>DSA & Problem Solving</b> <br/>
-💬 Ask me about <b>Full Stack Development, React, React Native & DSA</b>
-
+  🔭 Building <b><a href="https://github.com/Rishisharmacoder/DSA-CAREER-AI">DSA Career AI</a></b>
+  <br />
+  🌱 Learning <b>Next.js, TypeScript & Blockchain</b>
+  <br />
+  👯 Collaborating on <b><a href="https://github.com/c0derArmy/RakshaNow">RakshaNow</a></b>
+  <br />
+  🧠 Practicing <b>DSA & Problem Solving</b>
+  <br />
+  💬 Ask me about <b>Full Stack Development, React, React Native & DSA</b>
 </p>
 
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
+<h3 align="center">💻 Programming Languages</h3>
+
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript&perline=12"
-    alt="Programming Languages"
-  />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript&perline=12" alt="Programming Languages" />
+</p>
+
+<h3 align="center">🌐 Frontend</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite&perline=12" alt="Frontend Technologies" />
+</p>
+
+<h3 align="center">⚙️ Backend & Database</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis&perline=12" alt="Backend and Database Technologies" />
+</p>
+
+<h3 align="center">☁️ Tools & Platforms</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vercel&perline=12" alt="Tools and Platforms" />
+</p>
+
+<h3 align="center">🔌 IoT</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino&perline=12" alt="IoT Technologies" />
 </p>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite&perline=12"
-    alt="Frontend Technologies"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,mysql&perline=12"
-    alt="Backend and Databases"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,arduino&perline=12"
-    alt="Tools and Technologies"
-  />
-</p>
-
-<p align="center">
-  <b>IoT:</b> ESP32 • Arduino • MQTT • Node-RED • Sensors • RFID
+  <b>ESP32</b> • <b>Arduino</b> • <b>MQTT</b> • <b>Node-RED</b> • <b>RFID</b> • <b>Sensors</b>
 </p>
 
 ---
@@ -98,7 +102,7 @@
     <td width="50%" align="center">
       <img
         src="https://github-readme-stats.vercel.app/api?username=Rishisharmacoder&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
-        alt="GitHub Stats"
+        alt="Rishi Sharma GitHub Stats"
         width="100%"
       />
     </td>
@@ -107,7 +111,7 @@
 <td width="50%" align="center">
   <img
     src="https://github-readme-streak-stats-eight.vercel.app/?user=Rishisharmacoder&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    alt="Rishi Sharma GitHub Streak"
     width="100%"
   />
 </td>
@@ -123,21 +127,21 @@
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Rishisharmacoder&theme=tokyo-night&hide_border=true&area=true&height=300"
-    alt="Contribution Activity Graph"
+    alt="Rishi Sharma Contribution Activity Graph"
     width="95%"
   />
 </p>
 
 ---
 
-<h2 align="center">💻 Most Used Languages</h2>
+<h2 align="center">💻 Language Statistics</h2>
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishisharmacoder&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-        alt="Top Languages"
+        alt="Most Used Languages"
         width="100%"
       />
     </td>
@@ -178,11 +182,15 @@
 <h3>🧠 DSA Career AI</h3>
 
 <p>
-An intelligent DSA and career preparation platform designed to help students improve problem-solving skills and make better career decisions.
+An intelligent platform focused on DSA preparation,
+career prediction and personalized problem solving.
 </p>
 
 <a href="https://github.com/Rishisharmacoder/DSA-CAREER-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishisharmacoder&repo=DSA-CAREER-AI&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Rishisharmacoder&repo=DSA-CAREER-AI&theme=tokyonight&hide_border=true"
+    alt="DSA Career AI"
+  />
 </a>
 
 </td>
@@ -192,11 +200,15 @@ An intelligent DSA and career preparation platform designed to help students imp
 <h3>🛡️ RakshaNow</h3>
 
 <p>
-A real-world safety-focused project developed collaboratively with modern web technologies and real-time features.
+A safety-focused technology project developed collaboratively
+to solve real-world problems.
 </p>
 
 <a href="https://github.com/c0derArmy/RakshaNow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=c0derArmy&repo=RakshaNow&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=c0derArmy&repo=RakshaNow&theme=tokyonight&hide_border=true"
+    alt="RakshaNow"
+  />
 </a>
 
 </td>
@@ -210,22 +222,8 @@ A real-world safety-focused project developed collaboratively with modern web te
 <p align="center">
   <img
     src="https://github-readme-streak-stats-eight.vercel.app/?user=Rishisharmacoder&theme=tokyonight&hide_border=true"
-    alt="Contribution Streak"
+    alt="GitHub Contribution Streak"
   />
-</p>
-
----
-
-<h2 align="center">📅 GitHub Contribution Calendar</h2>
-
-<p align="center">
-  <a href="https://github.com/Rishisharmacoder">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Rishisharmacoder&theme=github-compact&hide_border=true&area=true"
-      alt="GitHub Contribution Calendar"
-      width="95%"
-    />
-  </a>
 </p>
 
 ---
@@ -255,7 +253,7 @@ A real-world safety-focused project developed collaboratively with modern web te
   </tr>
   <tr>
     <td>🧠</td>
-    <td>Take DSA Career AI to the next level</td>
+    <td>Improve DSA Career AI</td>
   </tr>
   <tr>
     <td>🔐</td>
@@ -277,15 +275,13 @@ A real-world safety-focused project developed collaboratively with modern web te
 </p>
 
 <p align="center">
+  <a href="https://github.com/Rishisharmacoder">
+    <img src="https://img.shields.io/badge/GitHub-Rishisharmacoder-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
-<a href="https://github.com/Rishisharmacoder">
-  <img src="https://img.shields.io/badge/GitHub-Rishisharmacoder-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:rishisharmadbg1192005@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-rishisharmadbg1192005-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="mailto:rishisharmadbg1192005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 ---
@@ -294,12 +290,10 @@ A real-world safety-focused project developed collaboratively with modern web te
 
 ### 💡 Build • Learn • Solve • Ship 🚀
 
-<br/>
-
 ⭐ <b>If you find my projects interesting, consider giving them a star!</b>
 
-<br/><br/>
+<br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=120&section=footer" alt="Footer" />
 
 </p>
