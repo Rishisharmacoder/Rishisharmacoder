@@ -1,10 +1,6 @@
 <h1 align="center">Hey 👋, I'm Rishi Sharma</h1>
 
 <p align="center">
-  <b>Full Stack Developer • DSA Enthusiast • IoT & Cyber Security Student</b>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rishisharmacoder&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Rishisharmacoder?label=Followers&style=flat" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Rishisharmacoder?label=Stars&style=flat" alt="Stars" />
@@ -61,50 +57,35 @@
 
 ---
 
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=Rishisharmacoder&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=Rishisharmacoder&theme=tokyonight&hide_border=true"
+        alt="GitHub Streak"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+---
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<h3 align="center">💻 Programming Languages</h3>
-
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript&perline=12"
-    alt="Programming Languages"
-  />
-</p>
-
-<h3 align="center">🌐 Frontend</h3>
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite&perline=12"
-    alt="Frontend Technologies"
-  />
-</p>
-
-<h3 align="center">⚙️ Backend & Database</h3>
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis&perline=12"
-    alt="Backend and Database Technologies"
-  />
-</p>
-
-<h3 align="center">🔧 Tools & Platforms</h3>
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vercel&perline=12"
-    alt="Tools and Platforms"
-  />
-</p>
-
-<h3 align="center">🔌 IoT</h3>
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=arduino&perline=12"
-    alt="Arduino"
+    src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,react,nextjs,tailwind,vite,nodejs,express,mongodb,mysql,redis,git,github,docker,aws,postman,vercel,arduino&perline=18&size=10"
+    alt="Tech Stack"
   />
 </p>
 
@@ -114,42 +95,26 @@
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
 <table align="center" width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="75%" align="center">
+      <h3>📈 Contribution Activity</h3>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Rishisharmacoder&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"
-        alt="Rishi Sharma GitHub Stats"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Rishisharmacoder&theme=tokyo-night&hide_border=true&area=true&height=180"
+        alt="Contribution Activity"
         width="100%"
       />
     </td>
-
-```
-<td width="50%" align="center">
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=Rishisharmacoder&theme=tokyonight&hide_border=true"
-    alt="Rishi Sharma GitHub Streak"
-    width="100%"
-  />
-</td>
-```
-
+    <td width="25%" align="center">
+      <h3>📌 GitHub Overview</h3>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rishisharmacoder&theme=tokyonight"
+        alt="GitHub Overview"
+        width="100%"
+      />
+    </td>
   </tr>
 </table>
-
----
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rishisharmacoder&theme=tokyo-night&hide_border=true&area=true&height=300"
-    alt="Contribution Activity"
-    width="95%"
-  />
-</p>
 
 ---
 
@@ -159,22 +124,18 @@
   <tr>
     <td width="50%" align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishisharmacoder&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-        alt="Most Used Languages"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishisharmacoder&theme=tokyonight"
+        alt="Languages by Repository"
         width="100%"
       />
     </td>
-
-```
-<td width="50%" align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishisharmacoder&theme=tokyonight"
-    alt="Languages by Repository"
-    width="100%"
-  />
-</td>
-```
-
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rishisharmacoder&theme=tokyonight"
+        alt="Languages by Commit"
+        width="100%"
+      />
+    </td>
   </tr>
 </table>
 
@@ -198,7 +159,6 @@
   <tr>
     <td width="50%" align="center">
 
-```
   <h3>🧠 DSA Career AI</h3>
 
   <p>
@@ -235,22 +195,8 @@
   </a>
 
 </td>
-```
-
   </tr>
 </table>
-
----
-
-<h2 align="center">🔥 Contribution Streak</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=Rishisharmacoder&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-    width="500"
-  />
-</p>
 
 ---
 
