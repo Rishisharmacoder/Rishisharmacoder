@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Rishi Sharma</h1>
 
 <p align="center">
-  <b>Full Stack Web & App Developer • DSA Enthusiast • IoT & Cyber Security Student</b>
+  <b>Full Stack Developer • DSA Enthusiast • IoT & Cyber Security Student</b>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="mailto:rishisharmadbg1192005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/Rishisharmacoder">
     <img src="https://img.shields.io/badge/GitHub-Rishisharmacoder-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -27,8 +27,8 @@
   I'm <b>Rishi Sharma</b>, a B.Tech CSE student specializing in
   <b>IoT & Cyber Security Including Blockchain Technology</b>.
   <br />
-  I'm passionate about building real-world software, solving DSA problems,
-  and learning modern technologies.
+  I enjoy building real-world software, solving DSA problems,
+  and exploring modern technologies.
 </p>
 
 <p align="center">
@@ -44,11 +44,17 @@
 <h2 align="center">🔭 Currently Working On</h2>
 
 <p align="center">
-  🔨 Building <b><a href="https://github.com/Rishisharmacoder/DSA-CAREER-AI">DSA Career AI</a></b>
+  🔨 Building
+  <a href="https://github.com/Rishisharmacoder/DSA-CAREER-AI">
+    <b>DSA Career AI</b>
+  </a>
   <br />
-  🤝 Collaborating on <b><a href="https://github.com/c0derArmy/RakshaNow">RakshaNow</a></b>
+  🤝 Collaborating on
+  <a href="https://github.com/c0derArmy/RakshaNow">
+    <b>RakshaNow</b>
+  </a>
   <br />
-  🌱 Currently learning <b>Next.js • Blockchain</b>
+  🌱 Currently learning <b>Next.js • TypeScript • Blockchain</b>
   <br />
   🧠 Practicing <b>DSA • C++ • Problem Solving</b>
 </p>
@@ -84,11 +90,11 @@
   />
 </p>
 
-<h3 align="center">☁️ Tools & Platforms</h3>
+<h3 align="center">🔧 Tools & Platforms</h3>
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=git,github,postman,vercel&perline=12"
+    src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vercel&perline=12"
     alt="Tools and Platforms"
   />
 </p>
@@ -120,13 +126,16 @@
       />
     </td>
 
-    <td width="50%" align="center">
-      <img
-        src="https://github-readme-streak-stats-eight.vercel.app/?user=Rishisharmacoder&theme=tokyonight&hide_border=true"
-        alt="Rishi Sharma GitHub Streak"
-        width="100%"
-      />
-    </td>
+```
+<td width="50%" align="center">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Rishisharmacoder&theme=tokyonight&hide_border=true"
+    alt="Rishi Sharma GitHub Streak"
+    width="100%"
+  />
+</td>
+```
+
   </tr>
 </table>
 
@@ -137,7 +146,7 @@
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Rishisharmacoder&theme=tokyo-night&hide_border=true&area=true&height=300"
-    alt="Rishi Sharma Contribution Activity"
+    alt="Contribution Activity"
     width="95%"
   />
 </p>
@@ -156,13 +165,16 @@
       />
     </td>
 
-    <td width="50%" align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishisharmacoder&theme=tokyonight"
-        alt="Languages by Repository"
-        width="100%"
-      />
-    </td>
+```
+<td width="50%" align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishisharmacoder&theme=tokyonight"
+    alt="Languages by Repository"
+    width="100%"
+  />
+</td>
+```
+
   </tr>
 </table>
 
@@ -184,41 +196,46 @@
 
 <table align="center" width="100%">
   <tr>
-
     <td width="50%" align="center">
-      <h3>🧠 DSA Career AI</h3>
 
-      <p>
-        An AI-powered platform focused on DSA preparation,
-        career prediction, personalized learning and
-        interview preparation.
-      </p>
+```
+  <h3>🧠 DSA Career AI</h3>
 
-      <a href="https://github.com/Rishisharmacoder/DSA-CAREER-AI">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=Rishisharmacoder&repo=DSA-CAREER-AI&theme=tokyonight&hide_border=true"
-          alt="DSA Career AI"
-          width="100%"
-        />
-      </a>
-    </td>
+  <p>
+    An AI-powered platform focused on DSA preparation,
+    career prediction, personalized learning and
+    interview preparation.
+  </p>
 
-    <td width="50%" align="center">
-      <h3>🛡️ RakshaNow</h3>
+  <a href="https://github.com/Rishisharmacoder/DSA-CAREER-AI">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Rishisharmacoder&repo=DSA-CAREER-AI&theme=tokyonight&hide_border=true"
+      alt="DSA Career AI"
+      width="100%"
+    />
+  </a>
 
-      <p>
-        A collaborative safety-focused project designed
-        to solve real-world problems using technology.
-      </p>
+</td>
 
-      <a href="https://github.com/c0derArmy/RakshaNow">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=c0derArmy&repo=RakshaNow&theme=tokyonight&hide_border=true"
-          alt="RakshaNow"
-          width="100%"
-        />
-      </a>
-    </td>
+<td width="50%" align="center">
+
+  <h3>🛡️ RakshaNow</h3>
+
+  <p>
+    A collaborative safety-focused project designed
+    to solve real-world problems using technology.
+  </p>
+
+  <a href="https://github.com/c0derArmy/RakshaNow">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=c0derArmy&repo=RakshaNow&theme=tokyonight&hide_border=true"
+      alt="RakshaNow"
+      width="100%"
+    />
+  </a>
+
+</td>
+```
 
   </tr>
 </table>
@@ -259,7 +276,7 @@
 <p align="center">
   <a href="mailto:rishisharmadbg1192005@gmail.com">
     <img
-      src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Gmail"
     />
   </a>
