@@ -12,10 +12,10 @@
 
 <p align="center">
   <a href="mailto:rishisharmadbg1192005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/Rishisharmacoder">
-    <img src="https://img.shields.io/badge/GitHub-Rishisharmacoder-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Rishisharmacoder-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -27,13 +27,13 @@
   I'm <b>Rishi Sharma</b>, a B.Tech CSE student specializing in
   <b>IoT & Cyber Security Including Blockchain Technology</b>.
   <br />
-  Passionate about building real-world software, solving DSA problems,
-  and exploring modern technologies.
+  I'm passionate about building real-world software, solving DSA problems,
+  and learning modern technologies.
 </p>
 
 <p align="center">
   💻 Full Stack Development &nbsp; • &nbsp;
-  🧠 DSA &nbsp; • &nbsp;
+  🧠 Data Structures & Algorithms &nbsp; • &nbsp;
   🔌 IoT &nbsp; • &nbsp;
   🛡️ Cyber Security &nbsp; • &nbsp;
   ⛓️ Blockchain
@@ -44,11 +44,11 @@
 <h2 align="center">🔭 Currently Working On</h2>
 
 <p align="center">
-  🔨 <b>DSA Career AI</b> — DSA & Career Preparation Platform
+  🔨 Building <b><a href="https://github.com/Rishisharmacoder/DSA-CAREER-AI">DSA Career AI</a></b>
   <br />
-  🤝 <b>RakshaNow</b> — Collaborative Real-World Project
+  🤝 Collaborating on <b><a href="https://github.com/c0derArmy/RakshaNow">RakshaNow</a></b>
   <br />
-  🌱 Learning <b>Next.js • Blockchain</b>
+  🌱 Currently learning <b>Next.js • Blockchain</b>
   <br />
   🧠 Practicing <b>DSA • C++ • Problem Solving</b>
 </p>
@@ -57,12 +57,16 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
+<h3 align="center">💻 Programming Languages</h3>
+
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript&perline=12"
     alt="Programming Languages"
   />
 </p>
+
+<h3 align="center">🌐 Frontend</h3>
 
 <p align="center">
   <img
@@ -71,12 +75,16 @@
   />
 </p>
 
+<h3 align="center">⚙️ Backend & Database</h3>
+
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis&perline=12"
-    alt="Backend Technologies"
+    alt="Backend and Database Technologies"
   />
 </p>
+
+<h3 align="center">☁️ Tools & Platforms</h3>
 
 <p align="center">
   <img
@@ -84,6 +92,8 @@
     alt="Tools and Platforms"
   />
 </p>
+
+<h3 align="center">🔌 IoT</h3>
 
 <p align="center">
   <img
@@ -102,19 +112,20 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Rishisharmacoder&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"
-        alt="GitHub Stats"
-        width="100%"
-      />
-    </td>
 
 ```
 <td width="50%" align="center">
   <img
+    src="https://github-readme-stats.vercel.app/api?username=Rishisharmacoder&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Rishi Sharma GitHub Stats"
+    width="100%"
+  />
+</td>
+
+<td width="50%" align="center">
+  <img
     src="https://github-readme-streak-stats-eight.vercel.app/?user=Rishisharmacoder&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    alt="Rishi Sharma GitHub Streak"
     width="100%"
   />
 </td>
@@ -125,33 +136,15 @@
 
 ---
 
-<table align="center" width="100%">
-  <tr>
-    <td width="75%" align="center">
+<h2 align="center">📈 Contribution Activity</h2>
 
-<h3>📈 Contribution Activity</h3>
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Rishisharmacoder&theme=tokyo-night&hide_border=true&area=true&height=180"
-alt="Contribution Activity"
-width="100%"
-/>
-
-</td>
-
-<td width="25%" align="center">
-
-<h3>📌 GitHub Overview</h3>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rishisharmacoder&theme=tokyonight"
-alt="GitHub Overview"
-width="100%"
-/>
-
-</td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Rishisharmacoder&theme=tokyo-night&hide_border=true&area=true&height=300"
+    alt="Rishi Sharma Contribution Activity"
+    width="95%"
+  />
+</p>
 
 ---
 
@@ -162,25 +155,21 @@ width="100%"
 
 ```
 <td width="50%" align="center">
-```
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishisharmacoder&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-alt="Most Used Languages"
-width="100%"
-/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishisharmacoder&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+    width="100%"
+  />
 </td>
 
 <td width="50%" align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishisharmacoder&theme=tokyonight"
-alt="Languages by Repository"
-width="100%"
-/>
-
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishisharmacoder&theme=tokyonight"
+    alt="Languages by Repository"
+    width="100%"
+  />
 </td>
+```
 
   </tr>
 </table>
@@ -204,41 +193,46 @@ width="100%"
 <table align="center" width="100%">
   <tr>
 
+```
 <td width="50%" align="center">
 
-<h3>🧠 DSA Career AI</h3>
+  <h3>🧠 DSA Career AI</h3>
 
-<p>
-AI-powered platform for DSA preparation,
-career prediction and personalized learning.
-</p>
+  <p>
+    An AI-powered platform focused on DSA preparation,
+    career prediction, personalized learning and
+    interview preparation.
+  </p>
 
-<a href="https://github.com/Rishisharmacoder/DSA-CAREER-AI">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Rishisharmacoder&repo=DSA-CAREER-AI&theme=tokyonight&hide_border=true"
-    alt="DSA Career AI"
-  />
-</a>
+  <a href="https://github.com/Rishisharmacoder/DSA-CAREER-AI">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Rishisharmacoder&repo=DSA-CAREER-AI&theme=tokyonight&hide_border=true"
+      alt="DSA Career AI"
+      width="100%"
+    />
+  </a>
 
 </td>
 
 <td width="50%" align="center">
 
-<h3>🛡️ RakshaNow</h3>
+  <h3>🛡️ RakshaNow</h3>
 
-<p>
-A collaborative safety-focused project designed
-to solve real-world problems.
-</p>
+  <p>
+    A collaborative safety-focused project designed
+    to solve real-world problems using technology.
+  </p>
 
-<a href="https://github.com/c0derArmy/RakshaNow">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=c0derArmy&repo=RakshaNow&theme=tokyonight&hide_border=true"
-    alt="RakshaNow"
-  />
-</a>
+  <a href="https://github.com/c0derArmy/RakshaNow">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=c0derArmy&repo=RakshaNow&theme=tokyonight&hide_border=true"
+      alt="RakshaNow"
+      width="100%"
+    />
+  </a>
 
 </td>
+```
 
   </tr>
 </table>
@@ -251,20 +245,11 @@ to solve real-world problems.
   <img
     src="https://github-readme-streak-stats-eight.vercel.app/?user=Rishisharmacoder&theme=tokyonight&hide_border=true"
     alt="GitHub Contribution Streak"
+    width="500"
   />
 </p>
 
 ---
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Rishisharmacoder/Rishisharmacoder/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="95%"
-  />
-</p>
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -281,12 +266,23 @@ to solve real-world problems.
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
+  I'm always interested in collaborating on interesting projects,
+  open-source ideas and real-world software solutions.
+</p>
+
+<p align="center">
   <a href="mailto:rishisharmadbg1192005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img
+      src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
   </a>
 
   <a href="https://github.com/Rishisharmacoder">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img
+      src="https://img.shields.io/badge/GitHub-Rishisharmacoder-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 </p>
 
@@ -303,6 +299,6 @@ to solve real-world problems.
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=120&section=footer"
-    alt="Footer"
+    alt="Profile Footer"
   />
 </p>
