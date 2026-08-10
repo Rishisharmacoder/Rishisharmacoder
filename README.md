@@ -1,64 +1,8 @@
 <h1 align="center">Hey 👋, I'm Rishi Sharma</h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rishisharmacoder&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Rishisharmacoder?label=Followers&style=flat" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Rishisharmacoder?label=Stars&style=flat" alt="Stars" />
 </p>
-
-<p align="center">
-  <a href="mailto:rishisharmadbg1192005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/Rishisharmacoder">
-    <img src="https://img.shields.io/badge/GitHub-Rishisharmacoder-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<h2 align="center">👨‍💻 About Me</h2>
-
-<p align="center">
-  I'm <b>Rishi Sharma</b>, a B.Tech CSE student specializing in
-  <b>IoT & Cyber Security Including Blockchain Technology</b>.
-  <br />
-  I enjoy building real-world software, solving DSA problems,
-  and exploring modern technologies.
-</p>
-
-<p align="center">
-  💻 Full Stack Development &nbsp; • &nbsp;
-  🧠 Data Structures & Algorithms &nbsp; • &nbsp;
-  🔌 IoT &nbsp; • &nbsp;
-  🛡️ Cyber Security &nbsp; • &nbsp;
-  ⛓️ Blockchain
-</p>
-
----
-
-<h2 align="center">🔭 Currently Working On</h2>
-
-<p align="center">
-  🔨 Building
-  <a href="https://github.com/Rishisharmacoder/DSA-CAREER-AI">
-    <b>DSA Career AI</b>
-  </a>
-  <br />
-  🤝 Collaborating on
-  <a href="https://github.com/c0derArmy/RakshaNow">
-    <b>RakshaNow</b>
-  </a>
-  <br />
-  🌱 Currently learning <b>Next.js • TypeScript • Blockchain</b>
-  <br />
-  🧠 Practicing <b>DSA • C++ • Problem Solving</b>
-</p>
-
----
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
@@ -77,24 +21,13 @@
     </td>
   </tr>
 </table>
-
----
-
 <h2 align="center">🛠️ Tech Stack</h2>
-
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,react,nextjs,tailwind,vite,nodejs,express,mongodb,mysql,redis,git,github,docker,aws,postman,vercel,arduino&perline=18&size=10"
+    src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,react,nextjs,tailwind,vite,nodejs,express,mongodb,mysql,redis,git,github,postman,vercel,arduino&perline=18&size=10"
     alt="Tech Stack"
   />
 </p>
-
-<p align="center">
-  <b>IoT:</b> ESP32 • Arduino • MQTT • Node-RED • RFID • Sensors
-</p>
-
----
-
 <table align="center" width="100%">
   <tr>
     <td width="75%" align="center">
@@ -115,11 +48,6 @@
     </td>
   </tr>
 </table>
-
----
-
-<h2 align="center">💻 Language Statistics</h2>
-
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
@@ -138,116 +66,3 @@
     </td>
   </tr>
 </table>
-
----
-
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Rishisharmacoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=2&column=4"
-    alt="GitHub Trophies"
-    width="90%"
-  />
-</p>
-
----
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-
-  <h3>🧠 DSA Career AI</h3>
-
-  <p>
-    An AI-powered platform focused on DSA preparation,
-    career prediction, personalized learning and
-    interview preparation.
-  </p>
-
-  <a href="https://github.com/Rishisharmacoder/DSA-CAREER-AI">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Rishisharmacoder&repo=DSA-CAREER-AI&theme=tokyonight&hide_border=true"
-      alt="DSA Career AI"
-      width="100%"
-    />
-  </a>
-
-</td>
-
-<td width="50%" align="center">
-
-  <h3>🛡️ RakshaNow</h3>
-
-  <p>
-    A collaborative safety-focused project designed
-    to solve real-world problems using technology.
-  </p>
-
-  <a href="https://github.com/c0derArmy/RakshaNow">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=c0derArmy&repo=RakshaNow&theme=tokyonight&hide_border=true"
-      alt="RakshaNow"
-      width="100%"
-    />
-  </a>
-
-</td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Rishisharmacoder/Rishisharmacoder/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="95%"
-  />
-</p>
-
----
-
-<h2 align="center">🤝 Let's Connect</h2>
-
-<p align="center">
-  I'm always interested in collaborating on interesting projects,
-  open-source ideas and real-world software solutions.
-</p>
-
-<p align="center">
-  <a href="mailto:rishisharmadbg1192005@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-    />
-  </a>
-
-  <a href="https://github.com/Rishisharmacoder">
-    <img
-      src="https://img.shields.io/badge/GitHub-Rishisharmacoder-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>💡 Build • Learn • Solve • Ship 🚀</b>
-</p>
-
-<p align="center">
-  ⭐ If you find my projects interesting, consider giving them a star!
-</p>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=120&section=footer"
-    alt="Profile Footer"
-  />
-</p>
