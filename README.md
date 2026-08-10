@@ -112,25 +112,21 @@
 
 <table align="center" width="100%">
   <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Rishisharmacoder&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"
+        alt="Rishi Sharma GitHub Stats"
+        width="100%"
+      />
+    </td>
 
-```
-<td width="50%" align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Rishisharmacoder&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="Rishi Sharma GitHub Stats"
-    width="100%"
-  />
-</td>
-
-<td width="50%" align="center">
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=Rishisharmacoder&theme=tokyonight&hide_border=true"
-    alt="Rishi Sharma GitHub Streak"
-    width="100%"
-  />
-</td>
-```
-
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=Rishisharmacoder&theme=tokyonight&hide_border=true"
+        alt="Rishi Sharma GitHub Streak"
+        width="100%"
+      />
+    </td>
   </tr>
 </table>
 
@@ -152,25 +148,21 @@
 
 <table align="center" width="100%">
   <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishisharmacoder&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+        alt="Most Used Languages"
+        width="100%"
+      />
+    </td>
 
-```
-<td width="50%" align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishisharmacoder&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-    width="100%"
-  />
-</td>
-
-<td width="50%" align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishisharmacoder&theme=tokyonight"
-    alt="Languages by Repository"
-    width="100%"
-  />
-</td>
-```
-
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishisharmacoder&theme=tokyonight"
+        alt="Languages by Repository"
+        width="100%"
+      />
+    </td>
   </tr>
 </table>
 
@@ -193,46 +185,40 @@
 <table align="center" width="100%">
   <tr>
 
-```
-<td width="50%" align="center">
+    <td width="50%" align="center">
+      <h3>🧠 DSA Career AI</h3>
 
-  <h3>🧠 DSA Career AI</h3>
+      <p>
+        An AI-powered platform focused on DSA preparation,
+        career prediction, personalized learning and
+        interview preparation.
+      </p>
 
-  <p>
-    An AI-powered platform focused on DSA preparation,
-    career prediction, personalized learning and
-    interview preparation.
-  </p>
+      <a href="https://github.com/Rishisharmacoder/DSA-CAREER-AI">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=Rishisharmacoder&repo=DSA-CAREER-AI&theme=tokyonight&hide_border=true"
+          alt="DSA Career AI"
+          width="100%"
+        />
+      </a>
+    </td>
 
-  <a href="https://github.com/Rishisharmacoder/DSA-CAREER-AI">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Rishisharmacoder&repo=DSA-CAREER-AI&theme=tokyonight&hide_border=true"
-      alt="DSA Career AI"
-      width="100%"
-    />
-  </a>
+    <td width="50%" align="center">
+      <h3>🛡️ RakshaNow</h3>
 
-</td>
+      <p>
+        A collaborative safety-focused project designed
+        to solve real-world problems using technology.
+      </p>
 
-<td width="50%" align="center">
-
-  <h3>🛡️ RakshaNow</h3>
-
-  <p>
-    A collaborative safety-focused project designed
-    to solve real-world problems using technology.
-  </p>
-
-  <a href="https://github.com/c0derArmy/RakshaNow">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=c0derArmy&repo=RakshaNow&theme=tokyonight&hide_border=true"
-      alt="RakshaNow"
-      width="100%"
-    />
-  </a>
-
-</td>
-```
+      <a href="https://github.com/c0derArmy/RakshaNow">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=c0derArmy&repo=RakshaNow&theme=tokyonight&hide_border=true"
+          alt="RakshaNow"
+          width="100%"
+        />
+      </a>
+    </td>
 
   </tr>
 </table>
