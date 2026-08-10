@@ -1,307 +1,159 @@
-<h1 align="center">Hey 👋, I'm Rishi Sharma</h1>
+# 👋 Hey, I'm Rishi Sharma
 
 <p align="center">
   <b>Full Stack Developer • DSA Enthusiast • IoT & Cyber Security Student</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rishisharmacoder&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Rishisharmacoder?label=Followers&style=flat" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Rishisharmacoder?label=Stars&style=flat" alt="Stars" />
-</p>
-
-<p align="center">
-  <a href="mailto:rishisharmadbg1192005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/Rishisharmacoder">
-    <img src="https://img.shields.io/badge/GitHub-Rishisharmacoder-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Rishisharmacoder&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/Rishisharmacoder?label=Followers&style=flat" alt="Followers">
+  <img src="https://img.shields.io/github/stars/Rishisharmacoder?label=Stars&style=flat" alt="Stars">
 </p>
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
-<p align="center">
-  I'm <b>Rishi Sharma</b>, a B.Tech CSE student specializing in
-  <b>IoT & Cyber Security Including Blockchain Technology</b>.
-  <br />
-  I enjoy building real-world software, solving DSA problems,
-  and exploring modern technologies.
-</p>
+I'm **Rishi Sharma**, a B.Tech CSE student specializing in **IoT & Cyber Security Including Blockchain Technology**.
 
-<p align="center">
-  💻 Full Stack Development &nbsp; • &nbsp;
-  🧠 Data Structures & Algorithms &nbsp; • &nbsp;
-  🔌 IoT &nbsp; • &nbsp;
-  🛡️ Cyber Security &nbsp; • &nbsp;
-  ⛓️ Blockchain
-</p>
+- 💻 Full Stack Development
+- 🧠 Data Structures & Algorithms
+- 🔌 IoT
+- 🛡️ Cyber Security
+- ⛓️ Blockchain
+- 🚀 Building real-world software projects
 
 ---
 
-<h2 align="center">🔭 Currently Working On</h2>
+## 🔭 Currently Working On
 
-<p align="center">
-  🔨 Building
-  <a href="https://github.com/Rishisharmacoder/DSA-CAREER-AI">
-    <b>DSA Career AI</b>
-  </a>
-  <br />
-  🤝 Collaborating on
-  <a href="https://github.com/c0derArmy/RakshaNow">
-    <b>RakshaNow</b>
-  </a>
-  <br />
-  🌱 Currently learning <b>Next.js • TypeScript • Blockchain</b>
-  <br />
-  🧠 Practicing <b>DSA • C++ • Problem Solving</b>
-</p>
+- 🧠 Building [DSA Career AI](https://github.com/Rishisharmacoder/DSA-CAREER-AI)
+- 🛡️ Collaborating on [RakshaNow](https://github.com/c0derArmy/RakshaNow)
+- 🌱 Learning **Next.js, TypeScript & Blockchain**
+- 🧠 Practicing **DSA & C++**
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
-<h3 align="center">💻 Programming Languages</h3>
+### 💻 Programming Languages
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript&perline=12"
-    alt="Programming Languages"
-  />
-</p>
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
 
-<h3 align="center">🌐 Frontend</h3>
+### 🌐 Frontend
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite&perline=12"
-    alt="Frontend Technologies"
-  />
-</p>
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Vite](https://skillicons.dev/icons?i=vite)
 
-<h3 align="center">⚙️ Backend & Database</h3>
+### ⚙️ Backend & Database
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis&perline=12"
-    alt="Backend and Database Technologies"
-  />
-</p>
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Redis](https://skillicons.dev/icons?i=redis)
 
-<h3 align="center">🔧 Tools & Platforms</h3>
+### 🔧 Tools & Platforms
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vercel&perline=12"
-    alt="Tools and Platforms"
-  />
-</p>
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Docker](https://skillicons.dev/icons?i=docker)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Vercel](https://skillicons.dev/icons?i=vercel)
 
-<h3 align="center">🔌 IoT</h3>
+### 🔌 IoT
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=arduino&perline=12"
-    alt="Arduino"
-  />
-</p>
+![Arduino](https://skillicons.dev/icons?i=arduino)
 
-<p align="center">
-  <b>IoT:</b> ESP32 • Arduino • MQTT • Node-RED • RFID • Sensors
-</p>
+**IoT:** ESP32 • Arduino • MQTT • Node-RED • RFID • Sensors
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+# 📊 GitHub Analytics
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Rishisharmacoder&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"
-        alt="Rishi Sharma GitHub Stats"
-        width="100%"
-      />
-    </td>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishisharmacoder&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-```
-<td width="50%" align="center">
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=Rishisharmacoder&theme=tokyonight&hide_border=true"
-    alt="Rishi Sharma GitHub Streak"
-    width="100%"
-  />
-</td>
-```
-
-  </tr>
-</table>
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Rishisharmacoder&theme=tokyonight&hide_border=true)
 
 ---
 
-<h2 align="center">📈 Contribution Activity</h2>
+# 📈 Contribution Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rishisharmacoder&theme=tokyo-night&hide_border=true&area=true&height=300"
-    alt="Contribution Activity"
-    width="95%"
-  />
-</p>
+![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=Rishisharmacoder&theme=tokyo-night&hide_border=true&area=true&height=300)
 
 ---
 
-<h2 align="center">💻 Language Statistics</h2>
+# 💻 Language Statistics
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishisharmacoder&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-        alt="Most Used Languages"
-        width="100%"
-      />
-    </td>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishisharmacoder&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
 
-```
-<td width="50%" align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishisharmacoder&theme=tokyonight"
-    alt="Languages by Repository"
-    width="100%"
-  />
-</td>
-```
-
-  </tr>
-</table>
+![Languages by Repository](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishisharmacoder&theme=tokyonight)
 
 ---
 
-<h2 align="center">🏆 GitHub Achievements</h2>
+# 🏆 GitHub Achievements
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Rishisharmacoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=2&column=4"
-    alt="GitHub Trophies"
-    width="90%"
-  />
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rishisharmacoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=2&column=4)
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+# 🚀 Featured Projects
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
+## 🧠 DSA Career AI
 
-```
-  <h3>🧠 DSA Career AI</h3>
+AI-powered platform focused on DSA preparation, career prediction, personalized learning and interview preparation.
 
-  <p>
-    An AI-powered platform focused on DSA preparation,
-    career prediction, personalized learning and
-    interview preparation.
-  </p>
+[![DSA Career AI](https://github-readme-stats.vercel.app/api/pin/?username=Rishisharmacoder&repo=DSA-CAREER-AI&theme=tokyonight&hide_border=true)](https://github.com/Rishisharmacoder/DSA-CAREER-AI)
 
-  <a href="https://github.com/Rishisharmacoder/DSA-CAREER-AI">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Rishisharmacoder&repo=DSA-CAREER-AI&theme=tokyonight&hide_border=true"
-      alt="DSA Career AI"
-      width="100%"
-    />
-  </a>
-
-</td>
-
-<td width="50%" align="center">
-
-  <h3>🛡️ RakshaNow</h3>
-
-  <p>
-    A collaborative safety-focused project designed
-    to solve real-world problems using technology.
-  </p>
-
-  <a href="https://github.com/c0derArmy/RakshaNow">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=c0derArmy&repo=RakshaNow&theme=tokyonight&hide_border=true"
-      alt="RakshaNow"
-      width="100%"
-    />
-  </a>
-
-</td>
-```
-
-  </tr>
-</table>
+**Repository:**  
+https://github.com/Rishisharmacoder/DSA-CAREER-AI
 
 ---
 
-<h2 align="center">🔥 Contribution Streak</h2>
+## 🛡️ RakshaNow
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=Rishisharmacoder&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-    width="500"
-  />
-</p>
+A collaborative safety-focused project designed to solve real-world problems using technology.
 
----
+[![RakshaNow](https://github-readme-stats.vercel.app/api/pin/?username=c0derArmy&repo=RakshaNow&theme=tokyonight&hide_border=true)](https://github.com/c0derArmy/RakshaNow)
 
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Rishisharmacoder/Rishisharmacoder/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="95%"
-  />
-</p>
+**Repository:**  
+https://github.com/c0derArmy/RakshaNow
 
 ---
 
-<h2 align="center">🤝 Let's Connect</h2>
+# 🔥 Contribution Streak
 
-<p align="center">
-  I'm always interested in collaborating on interesting projects,
-  open-source ideas and real-world software solutions.
-</p>
-
-<p align="center">
-  <a href="mailto:rishisharmadbg1192005@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-    />
-  </a>
-
-  <a href="https://github.com/Rishisharmacoder">
-    <img
-      src="https://img.shields.io/badge/GitHub-Rishisharmacoder-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-</p>
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Rishisharmacoder&theme=tokyonight&hide_border=true)
 
 ---
 
-<p align="center">
-  <b>💡 Build • Learn • Solve • Ship 🚀</b>
-</p>
+# 🐍 Contribution Snake
 
-<p align="center">
-  ⭐ If you find my projects interesting, consider giving them a star!
-</p>
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Rishisharmacoder/Rishisharmacoder/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=120&section=footer"
-    alt="Profile Footer"
-  />
-</p>
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in collaborating on interesting projects, open-source ideas and real-world software solutions.
+
+📧 **Email:** rishisharmadbg1192005@gmail.com
+
+🐙 **GitHub:**  
+https://github.com/Rishisharmacoder
+
+---
+
+### 💡 Build • Learn • Solve • Ship 🚀
+
+⭐ If you find my projects interesting, consider giving them a star!
