@@ -1,37 +1,305 @@
-<h1 align="center">Hi 👋, I'm Rishi Sharma</h1>
-<h3 align="center">Full Stack Web & App Developer | DSA in C++ |</h3>
+<h1 align="center">Hey 👋, I'm Rishi Sharma</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishisharmacoder&label=Profile%20views&color=0e75b6&style=flat" alt="rishisharmacoder" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishisharmacoder" alt="rishisharmacoder" /></a> </p>
-
-- 🔭 Hi, I'm Rishi Sharma, a 3rd-year B.Tech CSE student specializing in IoT & Cyber Security with Blockchain Technology. I'm passionate about Full Stack Development, Data Structures & Algorithms, IoT, and building real-world software projects. [DSA Career AI](https://github.com/Rishisharmacoder/DSA-CAREER-AI)
-
-- 🌱 I’m currently learning **Next.js, Blockchain**
-
-- 👯 I’m looking to collaborate on [RakshaNow](https://github.com/c0derArmy/RakshaNow)
-
-- 🤝 I’m looking for help with [RakshaNow](https://github.com/c0derArmy/RakshaNow)
-
-- 💬 Ask me about **Full Stack Dev & React Native**
-
-- 📫 How to reach me **rishisharmadbg1192005@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rishisharm53065" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishisharm53065" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishi-sharma-929387325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishi-sharma-929387325/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/rishi-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rishi-sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/rishi.sharmacoder2028/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishi.sharmacoder2028/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rishisharmadbg11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishisharmadbg11" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rishisharmacoder2028/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishisharmacoder2028/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rishisharmalb5a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rishisharmalb5a" height="30" width="40" /></a>
-<a href="https://discord.gg/rishisharma0702_09665" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rishisharma0702_09665" height="30" width="40" /></a>
+<p align="center">
+  <b>Full Stack Developer | DSA Enthusiast </b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rishisharmacoder&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Rishisharmacoder?label=Followers&style=flat" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Rishisharmacoder?label=Stars&style=flat" alt="Stars" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishisharmacoder&show_icons=true&locale=en&layout=compact" alt="rishisharmacoder" /></p>
+<p align="center">
+  <a href="mailto:rishisharmadbg1192005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Rishisharmacoder">
+    <img src="https://img.shields.io/badge/GitHub-Rishisharmacoder-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishisharmacoder&show_icons=true&locale=en" alt="rishisharmacoder" /></p>
+---
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  I'm <b>Rishi Sharma</b>, a B.Tech CSE student specializing in
+  <b>IoT & Cyber Security Including Blockchain Technology</b>.
+  <br/>
+  I enjoy building real-world software, solving DSA problems,
+  and exploring modern technologies.
+</p>
+
+<p align="center">
+  💻 Full Stack Development &nbsp; • &nbsp;
+  🧠 Data Structures & Algorithms &nbsp; • &nbsp;
+  🔌 IoT &nbsp; • &nbsp;
+  🛡️ Cyber Security &nbsp; • &nbsp;
+  ⛓️ Blockchain
+</p>
+
+---
+
+<h2 align="center">🚀 What I'm Currently Doing</h2>
+
+<p align="center">
+
+🔭 Building <b><a href="https://github.com/Rishisharmacoder/DSA-CAREER-AI">DSA Career AI</a></b> <br/>
+🌱 Learning <b>Next.js, TypeScript & Blockchain</b> <br/>
+👯 Collaborating on <b><a href="https://github.com/c0derArmy/RakshaNow">RakshaNow</a></b> <br/>
+🧠 Practicing <b>DSA & Problem Solving</b> <br/>
+💬 Ask me about <b>Full Stack Development, React, React Native & DSA</b>
+
+</p>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript&perline=12"
+    alt="Programming Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite&perline=12"
+    alt="Frontend Technologies"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,mysql&perline=12"
+    alt="Backend and Databases"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,arduino&perline=12"
+    alt="Tools and Technologies"
+  />
+</p>
+
+<p align="center">
+  <b>IoT:</b> ESP32 • Arduino • MQTT • Node-RED • Sensors • RFID
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Rishisharmacoder&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
+
+```
+<td width="50%" align="center">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Rishisharmacoder&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="100%"
+  />
+</td>
+```
+
+  </tr>
+</table>
+
+---
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Rishisharmacoder&theme=tokyo-night&hide_border=true&area=true&height=300"
+    alt="Contribution Activity Graph"
+    width="95%"
+  />
+</p>
+
+---
+
+<h2 align="center">💻 Most Used Languages</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishisharmacoder&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+        alt="Top Languages"
+        width="100%"
+      />
+    </td>
+
+```
+<td width="50%" align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishisharmacoder&theme=tokyonight"
+    alt="Languages by Repository"
+    width="100%"
+  />
+</td>
+```
+
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Rishisharmacoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=2&column=4"
+    alt="GitHub Trophies"
+    width="90%"
+  />
+</p>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+
+<h3>🧠 DSA Career AI</h3>
+
+<p>
+An intelligent DSA and career preparation platform designed to help students improve problem-solving skills and make better career decisions.
+</p>
+
+<a href="https://github.com/Rishisharmacoder/DSA-CAREER-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishisharmacoder&repo=DSA-CAREER-AI&theme=tokyonight&hide_border=true" />
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🛡️ RakshaNow</h3>
+
+<p>
+A real-world safety-focused project developed collaboratively with modern web technologies and real-time features.
+</p>
+
+<a href="https://github.com/c0derArmy/RakshaNow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=c0derArmy&repo=RakshaNow&theme=tokyonight&hide_border=true" />
+</a>
+
+</td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🔥 Contribution Streak</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Rishisharmacoder&theme=tokyonight&hide_border=true"
+    alt="Contribution Streak"
+  />
+</p>
+
+---
+
+<h2 align="center">📅 GitHub Contribution Calendar</h2>
+
+<p align="center">
+  <a href="https://github.com/Rishisharmacoder">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Rishisharmacoder&theme=github-compact&hide_border=true&area=true"
+      alt="GitHub Contribution Calendar"
+      width="95%"
+    />
+  </a>
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Rishisharmacoder/Rishisharmacoder/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="95%"
+  />
+</p>
+
+---
+
+<h2 align="center">🎯 2026 Goals</h2>
+
+<table align="center">
+  <tr>
+    <td>🔥</td>
+    <td>Become a stronger DSA problem solver</td>
+  </tr>
+  <tr>
+    <td>🚀</td>
+    <td>Build production-ready full-stack applications</td>
+  </tr>
+  <tr>
+    <td>🧠</td>
+    <td>Take DSA Career AI to the next level</td>
+  </tr>
+  <tr>
+    <td>🔐</td>
+    <td>Explore Cyber Security & Blockchain</td>
+  </tr>
+  <tr>
+    <td>🌎</td>
+    <td>Contribute more to Open Source</td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🤝 Let's Connect & Collaborate</h2>
+
+<p align="center">
+  I'm always interested in working on interesting projects,
+  open-source ideas and real-world software solutions.
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Rishisharmacoder">
+  <img src="https://img.shields.io/badge/GitHub-Rishisharmacoder-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:rishisharmadbg1192005@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-rishisharmadbg1192005-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💡 Build • Learn • Solve • Ship 🚀
+
+<br/>
+
+⭐ <b>If you find my projects interesting, consider giving them a star!</b>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=120&section=footer"/>
+
+</p>
